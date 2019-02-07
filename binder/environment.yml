@@ -6,6 +6,7 @@ dependencies:
   - dask-ml
   - ipywidgets
   - jupyterlab
+  - nbserverproxy
   - nodejs
   - pytables
   - python-graphviz

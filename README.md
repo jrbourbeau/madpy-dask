@@ -2,6 +2,10 @@
 
 This repository contains the materials for my "Parallel Computing in Python with Dask" talk at the Madison Python (MadPy) Meetup. 
 
+An interactive version of the notebook from this talk is available by clicking the "launch binder" button below:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jrbourbeau/madpy-dask/master?urlpath=lab/tree/dask-demo.ipynb)
+
 
 ## Setup
 
@@ -10,7 +14,7 @@ This repository contains the materials for my "Parallel Computing in Python with
 A Conda environment with the dependencies needed to run the notebook from this talk can be created with:
 
 ```terminal
-conda env create --name madpy-dask --file environment.yml
+conda env create --name madpy-dask --file binder/environment.yml
 ```
 
 **Step 2: Activate Conda environment**
