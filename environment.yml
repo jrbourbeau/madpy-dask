@@ -4,6 +4,7 @@ dependencies:
   - python=3.6
   - dask
   - dask-ml
+  - ipywidgets
   - jupyterlab
   - nodejs
   - pytables
